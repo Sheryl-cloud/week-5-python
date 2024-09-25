@@ -1,0 +1,6 @@
+Hello, this is the first line.
+This is the second line, with a number: 42
+Third line with another number: 100
+This is an appended fourth line.
+Appending a fifth line with a number: 256
+Final appended line.
